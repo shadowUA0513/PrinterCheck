@@ -1,4 +1,3 @@
-import React from "react";
 import { useReactToPrint } from "react-to-print";
 import { useRef } from "react";
 
