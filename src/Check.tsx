@@ -22,6 +22,10 @@ function Check() {
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam,
           aspernatur!
         </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam,
+          aspernatur!
+        </p>
       </div>
     </div>
   );
